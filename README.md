@@ -2,9 +2,11 @@
 
 ## Index
 ![index](https://user-images.githubusercontent.com/11474426/78806480-e33eae00-79ec-11ea-8edc-a9afb978a7d5.PNG)
+<hr>
 
 ## Create
 ![create](https://user-images.githubusercontent.com/11474426/78806511-f5b8e780-79ec-11ea-9c99-b2ae49759824.PNG)
+<hr>
 
 ## Update
 ![update](https://user-images.githubusercontent.com/11474426/78806534-fd788c00-79ec-11ea-827a-27d5aca86e50.PNG)
